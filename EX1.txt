@@ -1,0 +1,11 @@
+import java.util.*;
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world! This is ArrayList");
+        ArrayList<Integer> array1 = new ArrayList<>();
+        array1.add(10);
+        array1.add(150);
+        array1.add(100);
+        System.out.println(array1);
+    }
+}
